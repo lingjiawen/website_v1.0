@@ -141,7 +141,7 @@ class Navigation extends React.Component {
                         <Exercitation />
                     </li>
                     <li>
-                        <a href="#showcase"><span>生活</span></a>
+                        <a href="#showcase"><span>简历</span></a>
                     </li>
                     <li>
                         <a href="#contact-us"><span>联系我</span></a>

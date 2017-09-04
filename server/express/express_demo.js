@@ -70,7 +70,7 @@ app.get('/index.html', function (req, res) {
 // 重定义文件存储路径和文件名
 var storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, '/Users/charling/Desktop/pictures')
+    cb(null, '/var/www/html/images')
   },
   filename: function (req, file, cb) {
     cb(null, file.originalname)

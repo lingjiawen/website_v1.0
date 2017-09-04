@@ -5,128 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8e49ed4-8d0a-4aab-9ee4-0d08ccd83685" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/default1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (10).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (11).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (12).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (13).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (14).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (15).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (16).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (17).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (18).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (19).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (20).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (4).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (5).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (6).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (7).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (8).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery1/timetime (9).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (10).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (11).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (12).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (13).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (14).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (15).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (16).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (17).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (18).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (19).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (20).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (4).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (5).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (6).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (7).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (8).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery1/timetime (9).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/myfantasy.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/MyGallery.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/images/gallery/rename.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/jquery.infinitescroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/.idea/dstp_23_picxa.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/css/gallery/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/css/gallery/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/css/gallery/set1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/images/gallery/rename.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/js/gallery/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/js/gallery/jquery.infinitescroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/js/gallery/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/js/gallery/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mygalary/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/gallery/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/gallery/set1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/gallery/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/gallery/jquery.infinitescroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/gallery/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/gallery/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Gallery.jsx" afterPath="$PROJECT_DIR$/app/components/Gallery.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/AppList.jsx" afterPath="$PROJECT_DIR$/app/components/AppList.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Navigation.jsx" afterPath="$PROJECT_DIR$/app/components/Navigation.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/test.jsx" afterPath="$PROJECT_DIR$/app/components/test.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/main.js" afterPath="$PROJECT_DIR$/app/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/site.css" afterPath="$PROJECT_DIR$/build/site.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/express/express_demo.js" afterPath="$PROJECT_DIR$/server/express/express_demo.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -141,21 +22,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppList.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AppList.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/components/AppList.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="483">
+              <caret line="54" column="34" lean-forward="false" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#472#544#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gallery.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gallery.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/Gallery.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="552">
+              <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
                 <marker date="1504496987765" expanded="true" signature="1803:2796" ph="..." />
@@ -175,41 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygalary/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyGallery.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/MyGallery.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="3" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Navigation.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/Navigation.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="3289">
+              <caret line="143" column="52" lean-forward="false" selection-start-line="143" selection-start-column="52" selection-end-line="143" selection-end-column="52" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -217,31 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scrollable.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/Scrollable.jsx">
+      <file leaf-file-name="express_demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/express/express_demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Load.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/Load.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="741">
+              <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/index.html">
+        <entry file="file://$PROJECT_DIR$/server/express/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="161">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -274,6 +118,7 @@
       <find>app_back_icon</find>
       <find>grid</find>
       <find>caption</find>
+      <find>file_upload</find>
     </findStrings>
     <replaceStrings>
       <replace>8</replace>
@@ -306,9 +151,6 @@
         <option value="$PROJECT_DIR$/node_modules/react-icons/fa/resume.js" />
         <option value="$PROJECT_DIR$/node_modules/react-icons/fa/mail.js" />
         <option value="$PROJECT_DIR$/node_modules/react-icons/fa/mail - 副本.js" />
-        <option value="$PROJECT_DIR$/server/express/express_demo.js" />
-        <option value="$PROJECT_DIR$/app/components/AppList.jsx" />
-        <option value="$PROJECT_DIR$/app/components/Navigation.jsx" />
         <option value="$PROJECT_DIR$/app/components/test.jsx" />
         <option value="$PROJECT_DIR$/mygalary/index.html" />
         <option value="$PROJECT_DIR$/build/bootstrap.min.css" />
@@ -320,6 +162,9 @@
         <option value="$PROJECT_DIR$/app/main.js" />
         <option value="$PROJECT_DIR$/app/components/MyGallery.jsx" />
         <option value="$PROJECT_DIR$/app/components/Gallery.jsx" />
+        <option value="$PROJECT_DIR$/app/components/Navigation.jsx" />
+        <option value="$PROJECT_DIR$/server/express/express_demo.js" />
+        <option value="$PROJECT_DIR$/app/components/AppList.jsx" />
       </list>
     </option>
   </component>
@@ -375,29 +220,13 @@
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="baguetteBox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="baguetteBox" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="baguetteBox" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="mygalary" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -462,12 +291,12 @@
       <workItem from="1504178482097" duration="4152000" />
       <workItem from="1504190003909" duration="1715000" />
       <workItem from="1504351661381" duration="16738000" />
-      <workItem from="1504415109936" duration="25179000" />
+      <workItem from="1504415109936" duration="27267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70196000" />
+    <option name="totallyTimeSpent" value="72284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -503,27 +332,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/icons/atm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/icons/resume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/Scrollable.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/Gallery.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -543,7 +351,7 @@
         <state relative-caret-position="315">
           <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding>
-            <element signature="e#0#26#0" expanded="false" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -658,14 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="44" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/express/express_demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -803,28 +603,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/Navigation.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/AppList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -832,15 +614,7 @@
     <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/Load.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -872,15 +646,23 @@
     <entry file="file://$PROJECT_DIR$/mygalary/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Load.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/Gallery.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="552">
+          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
             <marker date="1504496987765" expanded="true" signature="1803:2796" ph="..." />
@@ -895,6 +677,59 @@
             <marker date="1504496987765" expanded="true" signature="4308:4421" ph="..." />
             <marker date="1504496987765" expanded="true" signature="4564:4703" ph="..." />
             <marker date="1504496987765" expanded="true" signature="4610:4676" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/express/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/express/express_demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Navigation.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3289">
+          <caret line="143" column="52" lean-forward="false" selection-start-line="143" selection-start-column="52" selection-end-line="143" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/AppList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="54" column="34" lean-forward="false" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#472#544#0" expanded="true" />
           </folding>
         </state>
       </provider>
