@@ -67,7 +67,12 @@ class ContactMe extends React.Component {
                 success: function (data) {
                     var data = JSON.parse(data);
                     alert(data.message);
-                }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert(XMLHttpRequest.status);
+                    alert(XMLHttpRequest.readyState);
+                    alert(textStatus);
+                },
             });
         }
         event.preventDefault();
