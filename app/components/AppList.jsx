@@ -18,7 +18,9 @@ class AppList extends React.Component {
     }
 
     handleOnclick() {
-        window.location.href = "http://localhost:8081"
+        let href = "http://"+window.location.host;
+        href = href.split(":")[0] + ":" + href.split(":")[1] + ":8081";
+        window.location.href = href;
     }
 
     render() {

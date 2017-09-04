@@ -15,8 +15,6 @@ import MyGallery from './components/MyGallery.jsx';
 import {
     BrowserRouter as Router,
     Route,
-    Link,
-    Switch
 } from 'react-router-dom'
 
 class Main extends React.Component {

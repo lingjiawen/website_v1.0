@@ -35,17 +35,20 @@ class Test extends React.Component {
     }
 
     handleSubmit(event) {
+
+        let address = "http://"+window.location.host;
+        address = address.split(":")[0] + ":" + address.split(":")[1] + ":8081/process_get";
+
         $.ajax({
             type: "POST",
-            url: "http://localhost:8081/process_get",
+            url: address,
             data: {
                 title: this.state.title,
                 text: this.state.text,
-                pictureName: this.state.pictureName
+                pictureName: this.state.pictureName,
             },
             success: function (data) {
                 var data = JSON.parse(data);
-                console.log(data);
                 alert("插入成功");
             }
         });

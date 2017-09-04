@@ -1,8 +1,6 @@
 import React from 'react'
 import {
-    BrowserRouter as Router,
-    Route,
-    Link
+    Link,
 } from 'react-router-dom'
 import baguetteBox from '../../baguetteBox/js/baguetteBox.min.js';
 import ReactCSSTransitionGroup from "react-addons-css-transition-group";
@@ -25,8 +23,8 @@ class Onepicture extends React.Component {
             overflow: 'scroll'
         });
         $(outCaption).css({
-            width:width-17,
-            height:"143px",
+            width: width - 17,
+            height: "143px",
             position: 'relative',
             overflow: 'hidden'
         })
@@ -37,7 +35,8 @@ class Onepicture extends React.Component {
         var picid = "#pic" + this.props.index;
         // var oldwidth = $(picid).width();
         // var newheight = oldwidth * 3 / 4;
-        $(picid).css({borderBottom: '1px solid grey'});
+        // $(picid).css({borderBottom: '1px solid grey'});
+        $(picid).css({backgroundColor: '#cdc'});
         const picture = require(`./images/gallery/default1.png`);
         $(picid).attr("src", picture);
     }
@@ -68,13 +67,14 @@ class Onepicture extends React.Component {
                 <div className="col-sm-6 col-md-4">
                     <div className="thumbnail">
                         <a className="lightbox" href={url}>
-                            <img src={url} alt="Park" onLoad={this.handleImageLoaded} id={pic_id} onError={this.handleImageError}/>
+                            <img src={url} alt="Park" onLoad={this.handleImageLoaded} id={pic_id}
+                                 onError={this.handleImageError}/>
                         </a>
                         <div className="outCaption">
-                        <div className="caption">
-                            <h3>{this.props.title}</h3>
-                            <p>{this.props.text}</p>
-                        </div>
+                            <div className="caption">
+                                <h3>{this.props.title}</h3>
+                                <p>{this.props.text}</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -94,15 +94,17 @@ class Gallery extends React.Component {
 
     componentDidMount() {
         var self = this;
+        let address = "http://" + window.location.host;
+        address = address.split(":")[0] + ":" + address.split(":")[1] + ":8081/process_post";
         $.ajax({
             type: "POST",
             async: false,
-            url: "http://localhost:8081/process_post",
+            url: address,
             success: function (data) {
                 self.setState({
                     pictures: JSON.parse(data)
                 }, function () {
-                    console.log(self.state.pictures)
+                    // console.log(self.state.pictures)
                 });
             }
         });
@@ -118,28 +120,30 @@ class Gallery extends React.Component {
         });
         return (
             <div>
-                <div style={{ position: "absolute", width: "100%"}}>
-                <Link to="/mygallery">
-                    <div className="app_back_icon">切换到新版相册</div>
-                </Link>
-                <Link to="/test">
-                    <div className="gallery_upload_icon">上传照片</div>
-                </Link>
+                <div style={{position: "absolute", width: "100%"}}>
+                    <Link to="/mygallery">
+                        <div className="app_back_icon" style={{fontSize: '30px'}}>新版相册</div>
+                    </Link>
+                    <Link to="/test">
+                        <div className="gallery_upload_icon">上传照片</div>
+                    </Link>
                 </div>
-            <div className="htmleaf-container">
-                <div className="container gallery-container">
+                <div className="galleryTitle">
                     <h1>Jiawen's Gallery</h1>
-                    <div className="jq22-demo">
+                    <div className="takeMeHome">
                         <Link to="/" className="linkcontent"><span>带我回家</span></Link>
                     </div>
-                    <p className="page-description text-center">回忆如风 流年似水</p>
-                    <div className="tz-gallery" id="tz_gallery">
-                        <div className="row">
-                            {rows}
+                    <p>回忆如风 流年似水</p>
+                </div>
+                <div className="htmleaf-container">
+                    <div className="container gallery-container">
+                        <div className="tz-gallery" id="tz_gallery">
+                            <div className="row">
+                                {rows}
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
             </div>
         );
     }
