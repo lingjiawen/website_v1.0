@@ -69,9 +69,10 @@ class ContactMe extends React.Component {
                     alert(data.message);
                 },
                 error: function(XMLHttpRequest, textStatus, errorThrown) {
-                    alert(XMLHttpRequest.status);
-                    alert(XMLHttpRequest.readyState);
-                    alert(textStatus);
+                    // alert(XMLHttpRequest.status);
+                    // alert(XMLHttpRequest.readyState);
+                    // alert(textStatus);
+                    alert("调皮的服务器不干活啦")
                 },
             });
         }
