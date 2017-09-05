@@ -252,7 +252,7 @@ app.post('/send_mail', urlencodedParser, function (req, res) {
     let response_msg = {
         message: "发送失败"
     };
-    var nodeMailer = require('nodeMailer');
+    var nodeMailer = require('nodemailer');
     var transporter = nodeMailer.createTransport({
         //https://github.com/andris9/nodeMailer-wellknown#supported-services 支持列表
         service: 'qq',
