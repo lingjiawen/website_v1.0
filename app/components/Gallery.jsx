@@ -121,8 +121,8 @@ class Gallery extends React.Component {
         return (
             <div>
                 <div style={{position: "absolute", width: "100%"}}>
-                    <Link to="/mygallery">
-                        <div className="app_back_icon" style={{fontSize: '30px'}}>新版相册</div>
+                    <Link to="/">
+                        <div className="app_back_icon">Backく</div>
                     </Link>
                     <Link to="/test">
                         <div className="gallery_upload_icon">上传照片</div>
@@ -131,7 +131,7 @@ class Gallery extends React.Component {
                 <div className="galleryTitle">
                     <h1>Jiawen's Gallery</h1>
                     <div className="takeMeHome">
-                        <Link to="/" className="linkcontent"><span>带我回家</span></Link>
+                        <Link to="/mygallery" className="linkcontent"><span>新版相册(建设中)</span></Link>
                     </div>
                     <p>回忆如风 流年似水</p>
                 </div>

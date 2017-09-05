@@ -8,7 +8,7 @@ var mail_psd = "gvfcixmhfuzhbgfj";
 
 
 var MongoClient = require('mongodb').MongoClient;
-var DB_CONN_STR = 'mongodb://127.0.0.1:27017/runoob';
+var DB_CONN_STR = 'mongodb://127.0.0.1:27017/myWebsite';
 
 /*****************************************
  *****************Base64编码解码************

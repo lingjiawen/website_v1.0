@@ -108,13 +108,16 @@ class MyGallery extends React.Component {
             <div>
                 <div style={{ position: "absolute", width: "100%"}}>
                     <Link to="/">
-                        <div className="app_back_icon">Back</div>
+                        <div className="app_back_icon">Backく</div>
                     </Link>
                     <Link to="/test">
                         <div className="gallery_upload_icon">上传照片</div>
                     </Link>
                 </div>
-                <div className="app_list_title">Gallery</div>
+                <div className="app_list_title" style={{paddingBottom: "30px"}}>Gallery</div>
+                <div className="takeMeHome" style={{paddingBottom: "30px"}}>
+                    <Link to="/photos" className="linkcontent"><span>旧版相册</span></Link>
+                </div>
                 <main className="main-wrapper" id="container">
                     <div className="wrapper">
                         <div className="">

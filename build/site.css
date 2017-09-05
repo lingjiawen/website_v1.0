@@ -268,7 +268,7 @@ header-wrapper
     margin: 0;
     text-align: center;
     color: lightslategray;
-    font-family: myfantasy;
+    font-family: myfantasy,STXingkai,STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
     font-size: 40px;
 }
 
@@ -280,7 +280,6 @@ header-wrapper
 .takeMeHome {
     text-align: center;
     margin: 30px;
-
 }
 
 .takeMeHome a {
@@ -292,6 +291,8 @@ header-wrapper
 .takeMeHome .linkcontent span {
     margin: 0 auto;
     text-align: center;
+    font-family:  STXingkai, myfantasy, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
+    font-size: 30px;
 }
 
 .box_one-appear {
@@ -418,8 +419,8 @@ header-wrapper
     padding: 80px;
     text-align: center;
     color: lightslategray;
-    font-family: myfantasy;
-    font-size: 80px;
+    font-family:  myfantasy,STXingkai, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
+    font-size: 60px;
 }
 
 .app_back_icon {
