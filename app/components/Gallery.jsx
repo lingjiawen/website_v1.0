@@ -52,7 +52,7 @@ class Onepicture extends React.Component {
 
     render() {
         var url = this.props.picture;
-        url = "http://123.207.238.196/" + url;
+        url = "http://123.207.238.196/images/" + url;
         var pic_id = "pic" + this.props.index;
         return (
             <ReactCSSTransitionGroup

@@ -2,6 +2,7 @@ import React from 'react'
 import ContactMe from './Nav/ContactMe.jsx'
 import Exercitation from './Nav/Exercitation.jsx'
 import AboutMe from './Nav/AboutMe.jsx'
+import Resume from './Nav/Resume.jsx'
 
 function Img(props) {
     return <img src={require('../../images/navigate.png')} alt="navigate_img"/>
@@ -23,7 +24,7 @@ class Navigation extends React.Component {
                         <Exercitation/>
                     </li>
                     <li>
-                        <a href="#contact-us"><span>简历</span></a>
+                        <Resume />
                     </li>
                     <li>
                         <ContactMe/>
