@@ -498,6 +498,10 @@ header-wrapper
     color: #fff;
 }
 
+.update_btn:hover {
+    background: #0f99eb;
+}
+
 @font-face {
     font-family: myfantasy; /*这里是说明调用来的字体名字*/
     src: url('../static/font/myfantasy.ttf'); /*这里是字体文件路径*/

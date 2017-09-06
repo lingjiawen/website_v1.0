@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8e49ed4-8d0a-4aab-9ee4-0d08ccd83685" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0015.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0016.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0025.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0026.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0029.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0030.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0036.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0039.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0042.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0053.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0054.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0197.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0258.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_0438.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/IMG_1680.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/express/xuange.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/site.css" afterPath="$PROJECT_DIR$/build/site.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/express/express_demo.js" afterPath="$PROJECT_DIR$/server/express/express_demo.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +27,8 @@
       <file leaf-file-name="Test.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/Test.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="110" column="36" lean-forward="false" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
+            <state relative-caret-position="299">
+              <caret line="76" column="31" lean-forward="true" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -66,8 +57,8 @@
       <file leaf-file-name="express_demo.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/express/express_demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="75" column="47" lean-forward="true" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+            <state relative-caret-position="391">
+              <caret line="252" column="22" lean-forward="true" selection-start-line="252" selection-start-column="22" selection-end-line="252" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -86,8 +77,8 @@
       <file leaf-file-name="site.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/site.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-591">
-              <caret line="460" column="23" lean-forward="false" selection-start-line="460" selection-start-column="23" selection-end-line="460" selection-end-column="23" />
+            <state relative-caret-position="322">
+              <caret line="501" column="21" lean-forward="false" selection-start-line="501" selection-start-column="21" selection-end-line="501" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -97,8 +88,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>gallery</find>
-      <find>page-description</find>
       <find>text-center</find>
       <find>linkcontent</find>
       <find>galleryT</find>
@@ -122,10 +111,12 @@
       <find>urlencodedParser</find>
       <find>ft</find>
       <find>.update_pic</find>
-      <find>update_btn</find>
       <find>div_up</find>
       <find>updata</find>
       <find>componentDid</find>
+      <find>update_btn</find>
+      <find>express</find>
+      <find>app.use(express.static('public'));</find>
       <find>handlePhotoSubmit</find>
     </findStrings>
     <replaceStrings>
@@ -179,9 +170,9 @@
         <option value="$PROJECT_DIR$/server/express/index.html" />
         <option value="$PROJECT_DIR$/app/main.js" />
         <option value="$PROJECT_DIR$/build/index.html" />
-        <option value="$PROJECT_DIR$/server/express/express_demo.js" />
-        <option value="$PROJECT_DIR$/build/site.css" />
         <option value="$PROJECT_DIR$/app/components/Test.jsx" />
+        <option value="$PROJECT_DIR$/build/site.css" />
+        <option value="$PROJECT_DIR$/server/express/express_demo.js" />
       </list>
     </option>
   </component>
@@ -251,18 +242,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Nav" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="website" type="b2602c69:ProjectViewProjectNode" />
@@ -338,12 +317,12 @@
       <workItem from="1504178482097" duration="4152000" />
       <workItem from="1504190003909" duration="1715000" />
       <workItem from="1504351661381" duration="16738000" />
-      <workItem from="1504415109936" duration="78900000" />
+      <workItem from="1504415109936" duration="82412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123917000" />
+    <option name="totallyTimeSpent" value="127429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1551" height="839" extended-state="6" />
@@ -375,18 +354,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/react-icons/fa/mail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-icons/fa/mail - 副本.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/react-icons/fa/tty.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -723,14 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/site.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-591">
-          <caret line="460" column="23" lean-forward="false" selection-start-line="460" selection-start-column="23" selection-end-line="460" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -765,16 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/Test.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="110" column="36" lean-forward="false" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/express/IMG_1680.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -785,10 +740,38 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="501" column="21" lean-forward="false" selection-start-line="501" selection-start-column="21" selection-end-line="501" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/express/IMG_0030.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="76" column="31" lean-forward="true" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/express/loading.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/express/express_demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="75" column="47" lean-forward="true" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+        <state relative-caret-position="391">
+          <caret line="252" column="22" lean-forward="true" selection-start-line="252" selection-start-column="22" selection-end-line="252" selection-end-column="22" />
           <folding />
         </state>
       </provider>
