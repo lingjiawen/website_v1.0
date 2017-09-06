@@ -40,7 +40,13 @@ module.exports = {//注意这里是exports不是export
     },
 
     plugins: [
-        new webpack.HotModuleReplacementPlugin()//热模块替换插件
+        //压缩bundle.js
+        new webpack.optimize.UglifyJsPlugin({
+            compress: {
+                warnings: false
+            }
+        }),
+        new webpack.HotModuleReplacementPlugin()//热模块替换插
     ],
 
     //webpack-dev-server配置
