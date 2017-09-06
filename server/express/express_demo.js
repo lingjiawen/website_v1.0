@@ -73,6 +73,7 @@ app.get('/index.html', function (req, res) {
 // 重定义文件存储路径和文件名
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
+        // cb(null, 'E:\\凌嘉文\\Desktop\\images')
         cb(null, '/var/www/html/images')
     },
     filename: function (req, file, cb) {
@@ -80,12 +81,14 @@ var storage = multer.diskStorage({
     }
 })
 
-var upload = multer({storage: storage})
+var upload = multer({storage: storage});
 app.use(upload.array('image'));
 
-app.post('/file_upload', function (req, res) {
+app.post('/file_upload', urlencodedParser, function (req, res) {
 
-    console.log(req.files);  // 上传的文件信息
+    res.setHeader("Access-Control-Allow-Origin", "*");
+
+    console.log(req.files[0]);  // 上传的文件信息
 
     var des_file = __dirname + "/" + req.files[0].originalname;
     fs.readFile(req.files[0].path, function (err, data) {
@@ -101,7 +104,7 @@ app.post('/file_upload', function (req, res) {
             res.end(JSON.stringify(response));
         });
     });
-})
+});
 
 /********************************************
  *               插入图片数据                 *
