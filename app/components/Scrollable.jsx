@@ -17,7 +17,7 @@ function Logo(props) {
         <div className="header-wrapper">
             <div className="header">
                 <div className="logo">
-                    <img src={require('../../images/logo/logo.png')} alt="logo"/>
+                    <img src={require('../../images/logo/logo.gif')} style={{borderRadius: "50%"}} alt="logo"/>
                 </div>
             </div>
         </div>
