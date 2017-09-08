@@ -9,7 +9,7 @@ import AppList from './components/AppList.jsx';
 import '../build/site.css';
 import '../baguetteBox/css/baguetteBox.min.css';
 import '../baguetteBox/css/thumbnail-gallery.css';
-import Test from './components/Test.jsx';
+import Test from './components/UpLoadPhotos.jsx';
 import TodoList from './components/Container.jsx';
 import MyGallery from './components/MyGallery.jsx';
 import {

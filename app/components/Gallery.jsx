@@ -48,6 +48,7 @@ class Onepicture extends React.Component {
         var newheight = oldwidth * 3 / 4;
         $(picid).css({width: "100%", height: newheight + "px", overflow: "hidden", objectFit: "cover"});
         baguetteBox.run('.tz-gallery');
+        // $(".lightbox").children("img").css("display", "block");
     }
 
     render() {
@@ -69,6 +70,7 @@ class Onepicture extends React.Component {
                         <a className="lightbox" href={url}>
                             <img src={url} alt="Park" onLoad={this.handleImageLoaded} id={pic_id}
                                  onError={this.handleImageError}/>
+                            {/*<div className="gallery_pic_loading"> <span></span> <span></span> <span></span> <span></span> <span></span> </div>*/}
                         </a>
                         <div className="outCaption">
                             <div className="caption">

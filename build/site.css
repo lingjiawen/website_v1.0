@@ -39,10 +39,10 @@ p {
 /*a:visited,*/
 /*a:hover,*/
 /*a:active {*/
-    /*text-decoration: none;*/
-    /*color: #ffffff;*/
-    /*border: none;*/
-    /*outline: none;*/
+/*text-decoration: none;*/
+/*color: #ffffff;*/
+/*border: none;*/
+/*outline: none;*/
 /*}*/
 
 .clear {
@@ -231,7 +231,6 @@ header-wrapper
     font-size: 16px;
 }
 
-
 .box_1:hover > .box_content > .box_title, .box_2:hover > .box_content > .box_title, .box_3:hover > .box_content > .box_title {
     transform: translate(-3px, -10px);
     -ms-transform: translate(-3px, -10px); /* IE 9 */
@@ -268,7 +267,7 @@ header-wrapper
     margin: 0;
     text-align: center;
     color: lightslategray;
-    font-family: myfantasy,STXingkai,STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
+    font-family: myfantasy, STXingkai, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
     font-size: 40px;
 }
 
@@ -291,7 +290,7 @@ header-wrapper
 .takeMeHome .linkcontent span {
     margin: 0 auto;
     text-align: center;
-    font-family:  STXingkai, myfantasy, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
+    font-family: STXingkai, myfantasy, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
     font-size: 30px;
 }
 
@@ -419,7 +418,7 @@ header-wrapper
     padding: 80px;
     text-align: center;
     color: lightslategray;
-    font-family:  myfantasy,STXingkai, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
+    font-family: myfantasy, STXingkai, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
     font-size: 60px;
 }
 
@@ -428,7 +427,7 @@ header-wrapper
     padding: 30px;
     float: left;
     color: lightslategray;
-    font-family: myfantasy,STXingkai, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
+    font-family: myfantasy, STXingkai, STKaiti, STXihei, "Microsoft YaHei", Droid Sans Fallback, PingFang SC;
     font-size: 40px;
     transition: 0.3s;
 }
@@ -437,7 +436,9 @@ header-wrapper
     color: honeydew;
     transform: translate(-10px, -3px);
 
-}.gallery_upload_icon {
+}
+
+.gallery_upload_icon {
     margin: 0;
     padding: 30px;
     float: right;
@@ -488,7 +489,7 @@ header-wrapper
 .update_btn {
     display: block;
     margin: 0 auto;
-    margin-top: 30px ;
+    margin-top: 30px;
     width: 30%;
     background: #0f88eb;
     box-shadow: none;
@@ -507,15 +508,16 @@ header-wrapper
     src: url('../static/font/myfantasy.ttf'); /*这里是字体文件路径*/
     font-size: 20px;
 }
+
 /******************************************************************************/
 /*  ContactMeForm                                                             */
 /******************************************************************************/
 
-
-.contact-form form{
+.contact-form form {
     margin-top: 2em;
     display: block;
 }
+
 .contact-form label {
     color: #848484;
     font-weight: 300;
@@ -544,10 +546,12 @@ header-wrapper
     transition-timing-function: ease;
 }
 
-.contact-form label input:focus,.contact-form label textarea:focus{ border-bottom-color:#404040}
+.contact-form label input:focus, .contact-form label textarea:focus {
+    border-bottom-color: #404040
+}
 
 .contact-form input[type="submit"] {
-    float:right;
+    float: right;
     border: none;
     outline: none;
     cursor: pointer;
@@ -560,7 +564,6 @@ header-wrapper
     background-color: #fb5353;
     padding: 0 29px;
 
-
     transition-delay: 0s;
     transition-duration: 0.6s;
     transition-property: all;
@@ -568,7 +571,7 @@ header-wrapper
 }
 
 .contact-form input[type="submit"]:hover {
-    background-color:#222222;
+    background-color: #222222;
 }
 
 /*上传文件*/
@@ -586,10 +589,10 @@ header-wrapper
     display: inline-block;
     *display: inline;
     *zoom: 1;
-    overflow:hidden;
+    overflow: hidden;
 }
 
-.div_upload  input {
+.div_upload input {
     position: absolute;
     font-size: 100px;
     right: 0;
@@ -613,4 +616,64 @@ header-wrapper
     padding: 4px 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
+}
+
+.pic_loading {
+    display: none;
+
+    width: 80px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.pic_loading span, .gallery_pic_loading span {
+    display: inline-block;
+    width: 8px;
+    height: 100%;
+    border-radius: 4px;
+    background: lightgreen;
+    -webkit-animation: load 1s ease infinite;
+}
+
+@-webkit-keyframes load {
+    0%, 100% {
+        height: 40px;
+        background: lightgreen;
+    }
+    50% {
+        height: 70px;
+        margin: -15px 0;
+        background: lightblue;
+    }
+}
+
+.pic_loading span:nth-child(2),  .gallery_pic_loading span:nth-child(2) {
+    -webkit-animation-delay: 0.2s;
+}
+
+.pic_loading span:nth-child(3), .gallery_pic_loading span:nth-child(3){
+    -webkit-animation-delay: 0.4s;
+}
+
+.pic_loading span:nth-child(4), .gallery_pic_loading span:nth-child(4) {
+    -webkit-animation-delay: 0.6s;
+}
+
+.pic_loading span:nth-child(5), .gallery_pic_loading span:nth-child(5   ) {
+    -webkit-animation-delay: 0.8s;
+}
+
+.gallery_pic_loading {
+    text-align: center;
+    margin: 0 auto;
+    height: 228.75px;
+    line-height: 228.75px;
+
+    position: relative;
+    /*top: -228.75px;*/
+}
+
+.lightbox img {
+    /*opacity:0;*/
 }

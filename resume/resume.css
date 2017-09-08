@@ -1,0 +1,233 @@
+body {
+    background: black;
+    font-size: 10px;
+}
+
+#resume_main {
+    margin: 0 auto;
+    width: 595px;
+    height: 842px;
+    background-color: #eeeeee;
+    
+}
+
+
+#resume_left {
+    display: inline-block;
+    width: 205px;
+    height: 842px;
+
+    float: left;
+}
+
+#resume_right {
+    display: inline-block;
+    width: 385px;
+    height: 842px;
+
+    overflow: hidden;
+}
+
+
+
+#resume_left_photos {
+    display: block;
+    width: 175px;
+    margin: 10px auto 20px;
+}
+
+#resume_left_photos img {
+    display: block;
+    width: 175px;
+}
+
+/*left*/
+#resume_name_card {
+    display: block;
+    width: 175px;
+    height: 52.5px;
+    background-color: white;
+
+    margin: 15px auto;
+}
+
+#resume_baseInf_card {
+    position: relative;
+    overflow: hidden;
+
+    display: block;
+    width: 175px;
+    height: 161.5px;
+    background-color: white;
+
+    margin: 15px auto;
+    /*padding: 5px 0;*/
+}
+
+#resume_reward_card {
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+
+    display: block;
+    width: 175px;
+    height: 135px;
+    background-color: white;
+
+    margin: 15px auto;
+}
+
+#resume_eng_card {
+    position: relative;
+    overflow: hidden;
+
+    display: block;
+    width: 175px;
+    height: 40px;
+    background-color: white;
+
+    margin: 15px auto;
+}
+
+#resume_comment_card {
+
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+
+    display: block;
+    width: 175px;
+    height: 148px;
+    background-color: white;
+
+    margin: 15px auto;
+}
+
+/*right*/
+
+#resume_project_card {
+
+    box-sizing: border-box;
+
+    display: block;
+    width: 360px;
+    height: 445px;
+    background-color: white;
+
+    margin: 10px auto;
+}
+
+#resume_edu_card {
+    display: block;
+    width: 360px;
+    height: 115px;
+    background-color: white;
+
+    margin: 10px auto;
+}
+
+#resume_skill_card {
+    display: block;
+    width: 360px;
+    height: 130px;
+    background-color: white;
+
+    margin: 10px auto;
+}
+
+#resume_hobby_card {
+    display: block;
+    width: 360px;
+    height: 84px;
+    background-color: white;
+
+    margin: 10px auto;
+    text-align: center;
+}
+
+
+/*****************************************************************/
+#name {
+    font-size: 21px;
+    text-align: center;
+}
+
+#goal {
+    font-size: 10px;
+    line-height: 16px;
+    text-align: center;
+}
+
+.icons {
+    display: block;
+    margin: 10px;
+   text-align: center;
+}
+
+.icons img {
+    width: 12px;
+}
+
+.card_content {
+    text-align: left;
+    margin: 0 10px;
+    line-height: 16px;
+}
+
+
+#resume_eng_card div {
+    text-align: center;
+    line-height: 40px;
+    font-size: 15px;
+}
+
+.card_title_left{
+    text-align: center;
+    padding: 6px;
+}
+.card_title_left img {
+    display: inline-block;
+    width: 12px;
+}
+.card_title_left div {
+    display: inline-block;
+    font-size: 15px;
+}
+.card_title_right {
+    text-align: left;
+    padding: 10px;
+}
+.card_title_right img {
+    display: inline-block;
+    width: 18px;
+}
+.card_title_right div {
+    display: inline-block;
+    font-size: 15px;
+}
+.project {
+    display: block;
+    padding: 10px 0;
+}
+#resume_edu_card div img {
+    width: 25px;
+}
+
+.all_skill_card {
+    padding: 0 10px;
+}
+
+.one_skill_card  {
+    display: inline-block;
+    width: 45%;
+}
+
+.one_skill_card img {
+    width: 90%;
+}
+
+#resume_hobby_card_kinds{
+    padding: 0 10px;
+    width: 60%;
+}
+

@@ -45,15 +45,17 @@ class Test extends React.Component {
 
     handlePhotoSubmit(event) {
         let psw = $("#div_upload_psw").val();
-
         if (psw != "19970708") {
             alert("密码有误，请重新输入！")
             return;
         }
+        //设置上传按钮不能点击;
+        $("#uploadForm").children('input').attr("disabled", true);
         self = this;
         let address = "http://" + window.location.host;
         address = address.split(":")[0] + ":" + address.split(":")[1] + ":8081/file_upload";
         var formData = new FormData(document.getElementById("uploadForm"));
+        $(".pic_loading").css("display","block");
         $.ajax({
             url: address,
             type: "POST",
@@ -66,16 +68,20 @@ class Test extends React.Component {
              */
             processData: false,
             success: function (data) {
-                alert("文件(" + JSON.parse(data).filename + ")上传成功！");
+                $(".pic_loading").css("display","none");
                 self.setState({
                     pictureName: JSON.parse(data).filename
                 });
                 $("#discribePhotos").css("display", "block");
+                $("#uploadForm").children('input').val("上传成功");
+                $("#uploadForm").children('input').css("background-color", "grey");
                 // $("#imgWait").hide();
             },
             error: function () {
-                alert("上传失败！");
+                $(".pic_loading").css("display","none");
+                $("#uploadForm").children('input').val("上传失败");
                 // $("#imgWait").hide();
+                $("#uploadForm").children('input').attr("disabled", false);
             }
         })
         event.preventDefault();
@@ -95,6 +101,7 @@ class Test extends React.Component {
             success: function (data) {
                 var data = JSON.parse(data);
                 alert("插入成功");
+                window.location.href = "http://" + window.location.host + "/photos";
             }
         });
         event.preventDefault();
@@ -110,6 +117,7 @@ class Test extends React.Component {
                 </div>
                 <div style={{paddingTop: "84px"}}>
                     <h1 style={{textAlign: "center", color: "rgb(200, 150, 200)"}}>上传照片</h1>
+                    <div className="pic_loading"> <span></span> <span></span> <span></span> <span></span> <span></span> </div>
                     <form id="uploadForm" style={{marginTop: "100px"}}>
                         <div className="group-inputs" style={{border: "0px solid black", margin: "0 auto"}}>
                             <div className="div_upload">
